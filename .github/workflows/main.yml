@@ -12,21 +12,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Set variables
-        run: |
-          echo "RELEASE_NAME=Released on $(date +%Y%m%d%H%M)" >> $GITHUB_ENV
-          echo "TAG_NAME=$(date +%Y%m%d%H%M)" >> $GITHUB_ENV
-          echo "chinacidr=http://ftp.apnic.net/stats/apnic/delegated-apnic-latest" >> $GITHUB_ENV
+      - name: Generate ChinaCIDR.txt file
         shell: bash
-
-      - name: Generate telegramcidr.txt file
         run: |
-          echo "payload:" > cncidr.txt
-          curl -sSL ${chinacidr} | awk -F '|' '/CN/&&/ipv4/ {print $4 "/" 32-log($5)/log(2)}' > cidr4.txt
+          echo "payload:" > ChinaCIDR.txt
+          curl -sSL http://ftp.apnic.net/stats/apnic/delegated-apnic-latest | awk -F '|' '/CN/&&/ipv4/ {print $4 "/" 32-log($5)/log(2)}' > cidr4.txt
           sed -i -e 's/^/  - '\''/' cidr4.txt
           sed -i -e 's/$/'\''/' cidr4.txt
-          curl -sSL ${chinacidr} | awk -F '|' '/CN/&&/ipv6/ {print $4 "/" 32-log($5)/log(2)}' > cidr6.txt
+          curl -sSL http://ftp.apnic.net/stats/apnic/delegated-apnic-latest | awk -F '|' '/CN/&&/ipv6/ {print $4 "/" 32-log($5)/log(2)}' > cidr6.txt
           sed -i -e 's/^/  - '\''/' cidr6.txt
           sed -i -e 's/$/'\''/' cidr6.txt
-          cat cidr4.txt >> cncidr.txt
-          cat cidr6.txt >> cncidr.txt
+          cat cidr4.txt >> ChinaCIDR.txt
+          cat cidr6.txt >> ChinaCIDR.txt
