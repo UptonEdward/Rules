@@ -10,4 +10,4 @@ payload:
   - GEOSITE,gfw
   - GEOIP,greatfire
   - GEOIP,!cn
-  - GEOSITE,jsdelivr
+  - DOMAIN-KEYWORD,jsdelivr
