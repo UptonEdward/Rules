@@ -9,3 +9,4 @@ payload:
   - DOMAIN-SUFFIX,pki.goog
   - GEOSITE,gfw
   - GEOIP,greatfire
+  - GEOIP,!cn
