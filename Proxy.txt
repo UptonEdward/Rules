@@ -1,4 +1,5 @@
 payload:
+  - GEOIP,cloudflare
   - GEOSITE,github
   - PROCESS-NAME,zoom.us
   - GEOIP,netflix
