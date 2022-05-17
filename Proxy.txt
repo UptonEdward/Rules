@@ -1,0 +1,10 @@
+payload:
+  - GEOSITE,github
+  - PROCESS-NAME,zoom.us
+  - GEOIP,netflix
+  - PROCESS-NAME,Telegram
+  - GEOIP,telegram
+  - GEOIP,twitter
+  - DOMAIN-SUFFIX,pki.goog
+  - GEOSITE,gfw
+  - GEOIP,greatfire

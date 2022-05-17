@@ -1,0 +1,9 @@
+payload:
+  - DOMAIN-SUFFIX,sharepoint.com
+  - GEOSITE,CN
+  - GEOIP,CN
+  - DOMAIN,doh.pub
+  - DOMAIN-SUFFIX,alidns.com
+  - DOMAIN-SUFFIX,passcloud.xyz
+  - DOMAIN-SUFFIX,iqiq.io
+  - DOMAIN,a.passcloud.xyz
