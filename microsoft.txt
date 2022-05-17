@@ -1,0 +1,14 @@
+payload:
+  - GEOSITE,microsoft
+  - GEOSITE,azure
+  - GEOSITE,bing
+  - GEOSITE,msn
+  - DOMAIN-SUFFIX,microsoft.com
+  - PROCESS-NAME,Microsoft Update Assistant
+  - PROCESS-NAME,OneDrive File Provider
+  - PROCESS-NAME,OneDrive
+  - PROCESS-NAME,Microsoft Excel
+  - PROCESS-NAME,Microsoft Word
+  - PROCESS-NAME,Microsoft PowerPoint
+  - PROCESS-NAME,Microsoft OneNote
+  - PROCESS-NAME,Microsoft Outlook
