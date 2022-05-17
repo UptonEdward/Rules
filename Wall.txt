@@ -1,5 +1,4 @@
 payload:
-  - GEOSITE,github
   - PROCESS-NAME,zoom.us
   - PROCESS-NAME,Telegram
   - GEOIP,netflix
@@ -7,6 +6,7 @@ payload:
   - GEOIP,twitter
   - GEOIP,greatfire
   - GEOIP,cloudflare
+  - GEOSITE,github
   - GEOSITE,cloudflare
   - GEOSITE,gfw
   - GEOSITE,category-porn
