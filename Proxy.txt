@@ -11,3 +11,4 @@ payload:
   - GEOIP,greatfire
   - GEOIP,!cn
   - DOMAIN-KEYWORD,jsdelivr
+  - GEOSITE,porn
