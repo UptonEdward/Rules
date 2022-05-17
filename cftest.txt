@@ -1,2 +1,2 @@
 payload:
-  - geoip,cloudflare
+  - GEOIP,cloudflare
