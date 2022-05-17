@@ -80,6 +80,9 @@ payload:
   - DOMAIN-KEYWORD,icoudos
   - DOMAIN-KEYWORD,testflight
 
+  - GEOSITE,apple
+  - GEOSITE,apple-cn
+
   - IP-CIDR,17.0.0.0/8
   - IP-CIDR,63.92.224.0/19
   - IP-CIDR,65.199.22.0/23
