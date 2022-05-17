@@ -1,2 +1,2 @@
 payload:
-  - GEOIP,CLOUDFLARE
+  - GEOSITE,CLOUDFLARE
