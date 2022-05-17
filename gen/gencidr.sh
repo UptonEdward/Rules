@@ -13,4 +13,5 @@ mv ChinaCIDR.txt /Users/charlesgray/Desktop/服务器/Rules/ChinaCIDR.txt
 cd /Users/charlesgray/Desktop/服务器/Rules
 git add .
 git commit  -m "Generate ChinaCIDR"
+git pull
 git push -u origin master
