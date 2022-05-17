@@ -12,5 +12,5 @@ cat cidr6.txt >> ChinaCIDR.txt
 mv ChinaCIDR.txt /root/Rules/ChinaCIDR.txt
 cd /root/Rules
 git add .
-git commit  -m "Generate ChinaCIDR"
+git commit  -m "Generate ChinaCIDR.txt"
 git push -u origin master
