@@ -7,7 +7,6 @@ payload:
   - GEOIP,greatfire
   - GEOIP,cloudflare
   - GEOSITE,github
-  - GEOSITE,cloudflare
   - GEOSITE,gfw
   - GEOSITE,category-porn
   - DOMAIN-SUFFIX,pki.goog
