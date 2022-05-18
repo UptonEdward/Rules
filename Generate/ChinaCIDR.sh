@@ -21,7 +21,7 @@ sed -i -e 's/$/'\''/' pull.txt
 wait
 wget https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/cncidr.txt -O loyalsoldier.txt
 wait
-sed -i "" '1d' loyalsoldier.txt
+sed -i '1d' loyalsoldier.txt
 wait
 cat loyalsoldier.txt >> pull.txt
 wait
