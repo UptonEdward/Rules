@@ -11,7 +11,7 @@ sed -i -e 's/^/  - '\''/' pull.txt
 sed -i -e 's/$/'\''/' pull.txt
 wget https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/cncidr.txt -O loyalsoldier.txt
 sed -i "" '1d' loyalsoldier.txt
-cat loyalsoldier.txt >> pull.txt
+awk 1 loyalsoldier.txt >> pull.txt
 sort -u pull.txt >> ChinaCIDR.txt
 mv ChinaCIDR.txt /Users/charlesgray/Documents/GitHub/Rules/ChinaCIDR.txt
 sleep 5
