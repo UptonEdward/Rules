@@ -1,5 +1,5 @@
 #!/bin/zsh
-cd /root/Rules/Generate
+cd /Users/charlesgray/Documents/GitHub/Rules/Generate
 wait
 echo "payload:" > ChinaCIDR.txt
 wait
@@ -21,10 +21,10 @@ sed -i -e 's/$/'\''/' pull.txt
 wait
 wget https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/cncidr.txt -O loyalsoldier.txt
 wait
-sed -i '1d' loyalsoldier.txt
+sed -i "" '1d' loyalsoldier.txt
 wait
 cat loyalsoldier.txt >> pull.txt
 wait
-sort -u pull.txt >> /root/Rules/ChinaCIDR.txt
+sort -u pull.txt >> /Users/charlesgray/Documents/GitHub/Rules/ChinaCIDR.txt
 wait
 rm -rf apnic.txt mayaxcn.txt metowolf.txt 17mon.txt pull.txt loyalsoldier.txt pull.txt-e
