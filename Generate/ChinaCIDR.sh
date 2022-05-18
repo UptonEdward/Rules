@@ -25,6 +25,10 @@ sed -i "" '1d' loyalsoldier.txt
 
 cat loyalsoldier.txt >> pull.txt
 
-sort -u pull.txt >> /Users/charlesgray/Documents/GitHub/Rules/ChinaCIDR.txt
+sort -u pull.txt > sorted.txt
+
+cat sorted.txt >/Users/charlesgray/Documents/GitHub/Rules/ChinaCIDR.txt
+
+
 sleep 10
 rm -rf apnic.txt mayaxcn.txt metowolf.txt 17mon.txt pull.txt loyalsoldier.txt pull.txt-e sorted.txt
