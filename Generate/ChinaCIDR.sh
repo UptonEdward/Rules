@@ -6,7 +6,7 @@ curl -sSL http://ftp.apnic.net/stats/apnic/delegated-apnic-latest | awk -F '|' '
 wget https://raw.githubusercontent.com/mayaxcn/china-ip-list/master/chnroute.txt -O mayaxcn.txt
 wget https://raw.githubusercontent.com/metowolf/iplist/master/data/country/CN.txt -O metowolf.txt
 wget https://raw.githubusercontent.com/17mon/china_ip_list/master/china_ip_list.txt -O 17mon.txt
-cat apnic.txt mayaxcn.txt metowolf.txt 17mon.txt > pull.txt
+awk 1 apnic.txt mayaxcn.txt metowolf.txt 17mon.txt > pull.txt
 sed -i -e 's/^/  - '\''/' pull.txt
 sed -i -e 's/$/'\''/' pull.txt
 wget https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/cncidr.txt -O loyalsoldier.txt
