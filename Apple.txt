@@ -1,40 +1,68 @@
 payload:
-  - DOMAIN-SUFFIX,apple.com
-  - DOMAIN-SUFFIX,apple.com.cn
-  - DOMAIN-SUFFIX,icloud.com
-  - DOMAIN-SUFFIX,icloud.com.cn
-  - DOMAIN-SUFFIX,cdn-apple.com
-  - DOMAIN-SUFFIX,apple-cloudkit.com
-  - DOMAIN-SUFFIX,apple.comscoreresearch.com
+  - DOMAIN,api.smoot.apple.cn
+  - DOMAIN,apple-events.akamaized.net
+  - DOMAIN,apple.comscoreresearch.com
+  - DOMAIN-KEYWORD,apple-support.akadns.net
+  - DOMAIN-KEYWORD,apple.com.akadns.net
+  - DOMAIN-KEYWORD,apple.com.edgekey.net
+  - DOMAIN-KEYWORD,icloud.com.akadns.net
+  - DOMAIN-KEYWORD,icoudo
+  - DOMAIN-KEYWORD,icoudos
+  - DOMAIN-KEYWORD,testflight
   - DOMAIN-SUFFIX,aaplimg.com
+  - DOMAIN-SUFFIX,akadns.net
+  - DOMAIN-SUFFIX,api.smoot.apple.cn
   - DOMAIN-SUFFIX,apple-cloudkit.com
-  - DOMAIN-SUFFIX,apple.co
-  - DOMAIN-SUFFIX,apple.news
-  - DOMAIN-SUFFIX,appstore.com
-  - DOMAIN-SUFFIX,cdn-apple.com
-  - DOMAIN-SUFFIX,crashlytics.com
-  - DOMAIN-SUFFIX,icloud-content.com
-  - DOMAIN-SUFFIX,itunes.com
-  - DOMAIN-SUFFIX,me.com
-  - DOMAIN-SUFFIX,apple.com.edgekey.net
-  - DOMAIN-SUFFIX,apzones.com
+  - DOMAIN-SUFFIX,apple-dns.net
+  - DOMAIN-SUFFIX,apple-events.akamaized.net
+  - DOMAIN-SUFFIX,apple-icloud.cn
   - DOMAIN-SUFFIX,apple-livephotoskit.com
   - DOMAIN-SUFFIX,apple-mapkit.com
-  - DOMAIN-SUFFIX,api.smoot.apple.cn
-  - DOMAIN-SUFFIX,apple-events.akamaized.net
-  - DOMAIN-SUFFIX,apple-dns.net
-  - DOMAIN-SUFFIX,apple-icloud.cn
+  - DOMAIN-SUFFIX,apple.co
+  - DOMAIN-SUFFIX,apple.com
   - DOMAIN-SUFFIX,apple.com.cdn20.com
+  - DOMAIN-SUFFIX,apple.com.cn
+  - DOMAIN-SUFFIX,apple.com.edgekey.net
   - DOMAIN-SUFFIX,apple.com.mwcloudcdn.com
   - DOMAIN-SUFFIX,apple.com.mwcname.com
+  - DOMAIN-SUFFIX,apple.comscoreresearch.com
+  - DOMAIN-SUFFIX,apple.news
   - DOMAIN-SUFFIX,appleicloud.cn
+  - DOMAIN-SUFFIX,applemusic.com
   - DOMAIN-SUFFIX,applemx-icloud.com
   - DOMAIN-SUFFIX,appsto.re
+  - DOMAIN-SUFFIX,appstore.com
+  - DOMAIN-SUFFIX,apzones.com
+  - DOMAIN-SUFFIX,cdn-apple.com
+  - DOMAIN-SUFFIX,crashlytics.com
+  - DOMAIN-SUFFIX,digicert.com
+  - DOMAIN-SUFFIX,gsp4-cn.ls.apple.com.edgekey.net
   - DOMAIN-SUFFIX,icloud-apple.cn
+  - DOMAIN-SUFFIX,icloud-content.com
   - DOMAIN-SUFFIX,icloud-isupport.com
   - DOMAIN-SUFFIX,icloud-sandbox.com
   - DOMAIN-SUFFIX,icloud.ch
+  - DOMAIN-SUFFIX,icloud.com
+  - DOMAIN-SUFFIX,icloud.com.cn
+  - DOMAIN-SUFFIX,icloud.de
+  - DOMAIN-SUFFIX,icloud.ee
+  - DOMAIN-SUFFIX,icloud.fi
+  - DOMAIN-SUFFIX,icloud.fr
+  - DOMAIN-SUFFIX,icloud.hu
+  - DOMAIN-SUFFIX,icloud.ie
+  - DOMAIN-SUFFIX,icloud.is
+  - DOMAIN-SUFFIX,icloud.jp
+  - DOMAIN-SUFFIX,icloud.lv
   - DOMAIN-SUFFIX,icloud.net.cn
+  - DOMAIN-SUFFIX,icloud.om
+  - DOMAIN-SUFFIX,icloud.org
+  - DOMAIN-SUFFIX,icloud.pt
+  - DOMAIN-SUFFIX,icloud.ro
+  - DOMAIN-SUFFIX,icloud.se
+  - DOMAIN-SUFFIX,icloud.si
+  - DOMAIN-SUFFIX,icloud.sk
+  - DOMAIN-SUFFIX,icloud.vn
+  - DOMAIN-SUFFIX,icloudads.net
   - DOMAIN-SUFFIX,icloudapple.cn
   - DOMAIN-SUFFIX,icloudbox.net
   - DOMAIN-SUFFIX,icloudbrowser.net
@@ -52,89 +80,74 @@ payload:
   - DOMAIN-SUFFIX,icloudsecure.net
   - DOMAIN-SUFFIX,icloudsetup.com
   - DOMAIN-SUFFIX,ios-icloud.com
+  - DOMAIN-SUFFIX,itunes.com
+  - DOMAIN-SUFFIX,itunes.com.edgekey.net
+  - DOMAIN-SUFFIX,me.com
   - DOMAIN-SUFFIX,myicloud.net
-  - DOMAIN-SUFFIX,www-cdn.icloud.com.akadns.net
-  - DOMAIN-SUFFIX,icloud.de
-  - DOMAIN-SUFFIX,icloud.ee
-  - DOMAIN-SUFFIX,icloud.fi
-  - DOMAIN-SUFFIX,icloud.fr
-  - DOMAIN-SUFFIX,icloud.hu
-  - DOMAIN-SUFFIX,icloud.ie
-  - DOMAIN-SUFFIX,icloud.is
-  - DOMAIN-SUFFIX,icloud.jp
-  - DOMAIN-SUFFIX,icloud.lv
-  - DOMAIN-SUFFIX,icloud.om
-  - DOMAIN-SUFFIX,icloud.org
-  - DOMAIN-SUFFIX,icloud.pt
-  - DOMAIN-SUFFIX,icloud.ro
-  - DOMAIN-SUFFIX,icloud.se
-  - DOMAIN-SUFFIX,icloud.si
-  - DOMAIN-SUFFIX,icloud.sk
-  - DOMAIN-SUFFIX,icloud.vn
-  - DOMAIN-SUFFIX,icloudo.net
-  - DOMAIN-SUFFIX,icloudos.de
   - DOMAIN-SUFFIX,mylcloud.net
+  - DOMAIN-SUFFIX,mzstatic.com
+  - DOMAIN-SUFFIX,safebrowsing.apple
+  - DOMAIN-SUFFIX,store.apple.com.edgekey.net
+  - DOMAIN-SUFFIX,www-cdn.icloud.com.akadns.net
+  - DOMAIN-SUFFIX,www.apple.com.edgekey.net
   - DOMAIN-SUFFIX,wwwicloud.com
-
-  - DOMAIN-KEYWORD,icoudo
-  - DOMAIN-KEYWORD,icoudos
-  - DOMAIN-KEYWORD,testflight
-
+  
   - GEOSITE,apple
   - GEOSITE,apple-cn
-
-  - IP-CIDR,17.0.0.0/8
-  - IP-CIDR,63.92.224.0/19
-  - IP-CIDR,65.199.22.0/23
-  - IP-CIDR,139.178.128.0/18
-  - IP-CIDR,144.178.0.0/19
-  - IP-CIDR,144.178.36.0/22
-  - IP-CIDR,144.178.48.0/20
-  - IP-CIDR,192.35.50.0/24
-  - IP-CIDR,198.183.17.0/24
-  - IP-CIDR,205.180.175.0/24
-
-  - PROCESS-NAME,storedownloadd
+  
+  - PROCESS-NAME,AKAuthorizationRemoteViewService
+  - PROCESS-NAME,AMPLibraryAgent
+  - PROCESS-NAME,AddressBookSourceSync
   - PROCESS-NAME,App Store
-  - PROCESS-NAME,appstoreagent
+  - PROCESS-NAME,AppleMediaServicesUIDynamicService
+  - PROCESS-NAME,CalenderAgent
+  - PROCESS-NAME,FaceTime
+  - PROCESS-NAME,FindMy
+  - PROCESS-NAME,Maps
+  - PROCESS-NAME,Messages
+  - PROCESS-NAME,Music
+  - PROCESS-NAME,Podcasts
+  - PROCESS-NAME,SpyglassPurchases
+  - PROCESS-NAME,Stocks
+  - PROCESS-NAME,TV
   - PROCESS-NAME,accountsd
   - PROCESS-NAME,adprivacyd
-  - PROCESS-NAME,amsaccountsd
   - PROCESS-NAME,akd
-  - PROCESS-NAME,AKAuthorizationRemoteViewService
+  - PROCESS-NAME,amsaccountsd
   - PROCESS-NAME,amsengagementd
-  - PROCESS-NAME,com.apple.Safari.SafeBrowsing.Service
-  - PROCESS-NAME,AddressBookSourceSync
-  - PROCESS-NAME,iCloudNotificationAgent
-  - PROCESS-NAME,com.apple.iCloudHelper
-  - PROCESS-NAME,trustd
-  - PROCESS-NAME,cloudd
-  - PROCESS-NAME,nsurlsessiond
-  - PROCESS-NAME,com.apple.preferences.AppleIDPrefPane.remoteservice
-  - PROCESS-NAME,SpyglassPurchases
-  - PROCESS-NAME,com.apple.Webkit.Networking
-  - PROCESS-NAME,Stocks
-  - PROCESS-NAME,Music
-  - PROCESS-NAME,AMPLibraryAgent
-  - PROCESS-NAME,itunescloudd
-  - PROCESS-NAME,commerce
-  - PROCESS-NAME,assistantd
-  - PROCESS-NAME,AppleMediaServicesUIDynamicService
-  - PROCESS-NAME,Podcasts
-  - PROCESS-NAME,TV
-  - PROCESS-NAME,identityservicesd
-  - PROCESS-NAME,transparencyd
-  - PROCESS-NAME,Messages
-  - PROCESS-NAME,parsecd
-  - PROCESS-NAME,translationd
+  - PROCESS-NAME,appstoreagent
   - PROCESS-NAME,assistant_service
+  - PROCESS-NAME,assistantd
+  - PROCESS-NAME,cloudd
+  - PROCESS-NAME,com.apple.Safari.SafeBrowsing.Service
+  - PROCESS-NAME,com.apple.Webkit.Networking
   - PROCESS-NAME,com.apple.geod
-  - PROCESS-NAME,FindMy
-  - PROCESS-NAME,FaceTime
-  - PROCESS-NAME,searchpartyuseragent
+  - PROCESS-NAME,com.apple.iCloudHelper
+  - PROCESS-NAME,com.apple.preferences.AppleIDPrefPane.remoteservice
+  - PROCESS-NAME,commerce
   - PROCESS-NAME,findmydeviced
-  - PROCESS-NAME,Maps
-  - PROCESS-NAME,CalenderAgent
+  - PROCESS-NAME,iCloudNotificationAgent
+  - PROCESS-NAME,identityservicesd
+  - PROCESS-NAME,itunescloudd
+  - PROCESS-NAME,lookupviewservice
+  - PROCESS-NAME,nsurlsessiond
   - PROCESS-NAME,parsec-fbf
-  - PROCESS-NAME,syspolicyd
+  - PROCESS-NAME,parsecd
+  - PROCESS-NAME,searchpartyuseragent
+  - PROCESS-NAME,storedownloadd
   - PROCESS-NAME,swcd
+  - PROCESS-NAME,syspolicyd
+  - PROCESS-NAME,translationd
+  - PROCESS-NAME,transparencyd
+  - PROCESS-NAME,trustd
+  
+  - IP-CIDR,139.178.128.0/18,no-resolve
+  - IP-CIDR,144.178.0.0/19,no-resolve
+  - IP-CIDR,144.178.36.0/22,no-resolve
+  - IP-CIDR,144.178.48.0/20,no-resolve
+  - IP-CIDR,17.0.0.0/8,no-resolve
+  - IP-CIDR,192.35.50.0/24,no-resolve
+  - IP-CIDR,198.183.17.0/24,no-resolve
+  - IP-CIDR,205.180.175.0/24,no-resolve
+  - IP-CIDR,63.92.224.0/19,no-resolve
+  - IP-CIDR,65.199.22.0/23,no-resolve
