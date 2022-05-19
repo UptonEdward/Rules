@@ -1,6 +1,7 @@
 payload:
   - PROCESS-NAME,zoom.us
   - PROCESS-NAME,Telegram
+  - PROCESS-NAME,GitHub Desktop
   - DOMAIN-SUFFIX,pki.goog
   - GEOSITE,gfw
   - GEOSITE,github
