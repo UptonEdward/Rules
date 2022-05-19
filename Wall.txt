@@ -1,14 +1,11 @@
 payload:
   - PROCESS-NAME,zoom.us
   - PROCESS-NAME,Telegram
-  - GEOIP,netflix
-  - GEOIP,twitter
-  - GEOIP,telegram
-  - GEOIP,greatfire
-  - GEOIP,cloudflare
+  - DOMAIN-SUFFIX,pki.goog
   - GEOSITE,gfw
   - GEOSITE,github
   - GEOSITE,jsdelivr
+  - GEOSITE,greatfire
   - GEOSITE,cloudflare
   - GEOSITE,category-porn
-  - DOMAIN-SUFFIX,pki.goog
+  - GEOIP,cloudflare
