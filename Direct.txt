@@ -1,9 +1,12 @@
 payload:
-  - DOMAIN-SUFFIX,sharepoint.com
+
   - DOMAIN,doh.pub
+  - DOMAIN,yacd.haishan.me
+  - DOMAIN,a.passcloud.xyz
+  - DOMAIN,clash.razord.top
+  - DOMAIN,clash.metacubex.one
+  
   - DOMAIN-SUFFIX,alidns.com
   - DOMAIN-SUFFIX,passcloud.xyz
   - DOMAIN-SUFFIX,iqiq.io
-  - DOMAIN,a.passcloud.xyz
-  - DOMAIN,clash.metacubex.one
-  - DOMAIN,clash.razord.top
+  - DOMAIN-SUFFIX,sharepoint.com
