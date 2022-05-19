@@ -8,4 +8,5 @@ payload:
   - GEOSITE,greatfire
   - GEOSITE,cloudflare
   - GEOSITE,category-porn
+  - RULE-SET,Cloudflare
   - GEOIP,cloudflare
