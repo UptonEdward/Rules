@@ -17,5 +17,10 @@ proxies:
     server: 127.0.0.1
     port: 1089
     udp: true
+proxy-groups:
+  - name: Meta
+    type: select
+    proxies:
+      - S5
 rules:
-  - MATCH,S5
+  - MATCH,Meta
