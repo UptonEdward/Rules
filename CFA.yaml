@@ -10,7 +10,7 @@ dns:
   ipv6: true
   enhanced-mode: redir-host
   nameserver:
-    - 127.0.0.1:1053
+    - 127.0.0.1:10530
 proxies:
   - name: S5
     type: socks5
