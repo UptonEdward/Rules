@@ -1,6 +1,8 @@
 payload:
   - PROCESS-NAME,zoom.us
   - PROCESS-NAME,Telegram
+  - PROCESS-NAME,GitHub Desktop
+  - PROCESS-NAME,GitHub Desktop Helper
   - DOMAIN-SUFFIX,pki.goog
   - GEOSITE,gfw
   - GEOSITE,github
@@ -8,5 +10,4 @@ payload:
   - GEOSITE,greatfire
   - GEOSITE,cloudflare
   - GEOSITE,category-porn
-  - RULE-SET,Cloudflare
-  - GEOIP,cloudflare
+  - GEOIP,Cloudflare
