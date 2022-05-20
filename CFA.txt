@@ -1,7 +1,7 @@
 mixed-port: 7890
 #authentication:
 #  - "charles:20020818qq"
-allow-lan: true
+allow-lan: false
 mode: rule
 log-level: debug
 ipv6: true
