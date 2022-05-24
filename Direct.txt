@@ -10,3 +10,4 @@ payload:
   - DOMAIN-SUFFIX,passcloud.xyz
   - DOMAIN-SUFFIX,iqiq.io
   - DOMAIN-SUFFIX,sharepoint.com
+  - PROCESS-NAME,qbittorrent
