@@ -13,3 +13,4 @@ payload:
   - PROCESS-NAME,qbittorrent
   - PROCESS-NAME,DownloadService
   - PROCESS-NAME,Thunder
+  - PROCESS-NAME,WeChat
