@@ -1,8 +1,11 @@
 payload:
   - PROCESS-NAME,zoom.us
+  - PROCESS-NAME,Thunder
   - PROCESS-NAME,Telegram
+  - PROCESS-NAME,qbittorrent
   - PROCESS-NAME,Code Helper
   - PROCESS-NAME,GitHub Desktop
+  - PROCESS-NAME,DownloadService
   - PROCESS-NAME,git-remote-http
   - PROCESS-NAME,GitHub Desktop Helper
   - DOMAIN-SUFFIX,pki.goog
