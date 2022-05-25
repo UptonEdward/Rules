@@ -1,4 +1,0 @@
-payload:
-  - PROCESS-NAME,qbittorrent
-  - PROCESS-NAME,Thunder
-  - PROCESS-NAME,DownloadService
