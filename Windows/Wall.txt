@@ -1,10 +1,6 @@
 payload:
-  - PROCESS-NAME,zoom.us
-  - PROCESS-NAME,Telegram
   - PROCESS-NAME,Code.exe
-  - PROCESS-NAME,GitHub Desktop
-  - PROCESS-NAME,git-remote-http
-  - PROCESS-NAME,GitHub Desktop Helper
+  - PROCESS-NAME,Telegram.exe
   - DOMAIN-SUFFIX,pki.goog
   - GEOSITE,gfw
   - GEOSITE,github
