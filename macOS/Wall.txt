@@ -6,6 +6,7 @@ payload:
   - PROCESS-NAME,GitHub Desktop
   - PROCESS-NAME,git-remote-http
   - PROCESS-NAME,GitHub Desktop Helper
+  - PROCESS-NAME,Code Helper (Renderer)
   - DOMAIN-SUFFIX,pki.goog
   - GEOSITE,gfw
   - GEOSITE,github
