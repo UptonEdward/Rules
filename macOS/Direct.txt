@@ -11,3 +11,4 @@ payload:
   - DOMAIN-SUFFIX,iqiq.io
   - DOMAIN-SUFFIX,sharepoint.com
   - PROCESS-NAME,WeChat
+  - PROCESS-NAME,BaiduNetdisk_mac,DIRECT
