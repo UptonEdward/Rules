@@ -1,14 +1,16 @@
 payload:
 
   - DOMAIN,doh.pub
+  - DOMAIN,lhmc.club
   - DOMAIN,yacd.haishan.me
   - DOMAIN,a.passcloud.xyz
   - DOMAIN,clash.razord.top
   - DOMAIN,clash.metacubex.one
   
+  - DOMAIN-SUFFIX,iqiq.io
   - DOMAIN-SUFFIX,alidns.com
   - DOMAIN-SUFFIX,passcloud.xyz
-  - DOMAIN-SUFFIX,iqiq.io
   - DOMAIN-SUFFIX,sharepoint.com
+
   - PROCESS-NAME,WeChat
   - PROCESS-NAME,BaiduNetdisk_mac,DIRECT
