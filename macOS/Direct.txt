@@ -1,5 +1,4 @@
 payload:
-  - GEOSITE,cn
   - GEOSITE,bilibili
 
   - DOMAIN,doh.pub
@@ -11,8 +10,9 @@ payload:
   
   - DOMAIN-SUFFIX,iqiq.io
   - DOMAIN-SUFFIX,alidns.com
+  - DOMAIN-SUFFIX,adguard.com
   - DOMAIN-SUFFIX,passcloud.xyz
   - DOMAIN-SUFFIX,sharepoint.com
 
   - PROCESS-NAME,WeChat
-  - PROCESS-NAME,BaiduNetdisk_mac,DIRECT
+  - PROCESS-NAME,BaiduNetdisk_mac
