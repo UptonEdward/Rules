@@ -5,8 +5,6 @@ payload:
   - DOMAIN,lhmc.club
   - DOMAIN,yacd.haishan.me
   - DOMAIN,a.passcloud.xyz
-  - DOMAIN,clash.razord.top
-  - DOMAIN,clash.metacubex.one
   
   - DOMAIN-SUFFIX,iqiq.io
   - DOMAIN-SUFFIX,alidns.com
