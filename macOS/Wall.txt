@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,pki.goog
   - GEOSITE,gfw
   - GEOSITE,github
+  - GEOSITE,google
   - GEOSITE,jsdelivr
   - GEOSITE,linkedin
   - GEOSITE,greatfire
