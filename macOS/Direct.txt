@@ -13,4 +13,6 @@ payload:
   - DOMAIN-SUFFIX,sharepoint.com
 
   - PROCESS-NAME,WeChat
+  - PROCESS-NAME,Tabby Helper
   - PROCESS-NAME,BaiduNetdisk_mac
+  - PROCESS-NAME,Tabby Helper (Renderer)
