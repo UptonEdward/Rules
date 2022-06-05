@@ -8,6 +8,7 @@ payload:
   
   - DOMAIN-SUFFIX,126.net
   - DOMAIN-SUFFIX,iqiq.io
+  - DOMAIN-SUFFIX,163yun.com
   - DOMAIN-SUFFIX,alidns.com
   - DOMAIN-SUFFIX,netease.com
   - DOMAIN-SUFFIX,passcloud.xyz
