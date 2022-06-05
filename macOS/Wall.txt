@@ -7,7 +7,7 @@ payload:
   - PROCESS-NAME,git-remote-http
   - PROCESS-NAME,GitHub Desktop Helper
   - PROCESS-NAME,Code Helper (Renderer)
-  - DOMAIN-SUFFIX,pki.goog
+  - DOMAIN-SUFFIX,adguard.com
   - GEOSITE,gfw
   - GEOSITE,github
   - GEOSITE,google
@@ -17,3 +17,4 @@ payload:
   - GEOSITE,cloudflare
   - GEOSITE,category-porn
   - GEOIP,Cloudflare
+  
