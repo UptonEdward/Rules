@@ -8,7 +8,6 @@ payload:
   
   - DOMAIN-SUFFIX,iqiq.io
   - DOMAIN-SUFFIX,alidns.com
-  - DOMAIN-SUFFIX,adguard.com
   - DOMAIN-SUFFIX,passcloud.xyz
   - DOMAIN-SUFFIX,sharepoint.com
 
