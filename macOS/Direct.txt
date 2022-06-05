@@ -12,6 +12,7 @@ payload:
   - DOMAIN-SUFFIX,passcloud.xyz
   - DOMAIN-SUFFIX,sharepoint.com
 
+  - PROCESS-NAME,mosdns
   - PROCESS-NAME,WeChat
   - PROCESS-NAME,Tabby Helper
   - PROCESS-NAME,BaiduNetdisk_mac
