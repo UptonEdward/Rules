@@ -120,7 +120,6 @@ payload:
   - PROCESS-NAME,assistantd
   - PROCESS-NAME,cloudd
   - PROCESS-NAME,com.apple.Safari.SafeBrowsing.Service
-  - PROCESS-NAME,com.apple.Webkit.Networking
   - PROCESS-NAME,com.apple.geod
   - PROCESS-NAME,com.apple.iCloudHelper
   - PROCESS-NAME,com.apple.preferences.AppleIDPrefPane.remoteservice
