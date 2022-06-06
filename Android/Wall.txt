@@ -1,12 +1,4 @@
 payload:
-  - PROCESS-NAME,zoom.us
-  - PROCESS-NAME,Telegram
-  - PROCESS-NAME,SwitchHosts
-  - PROCESS-NAME,Code Helper
-  - PROCESS-NAME,GitHub Desktop
-  - PROCESS-NAME,git-remote-http
-  - PROCESS-NAME,GitHub Desktop Helper
-  - PROCESS-NAME,Code Helper (Renderer)
   - DOMAIN-SUFFIX,adguard.com
   - GEOSITE,gfw
   - GEOSITE,github
@@ -17,4 +9,3 @@ payload:
   - GEOSITE,cloudflare
   - GEOSITE,category-porn
   - GEOIP,Cloudflare
-  
