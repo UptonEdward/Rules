@@ -1,0 +1,22 @@
+payload:
+  - GEOSITE,bilibili
+
+  - DOMAIN,doh.pub
+  - DOMAIN,lhmc.club
+  - DOMAIN,yacd.haishan.me
+  - DOMAIN,a.passcloud.xyz
+  
+  - DOMAIN-SUFFIX,126.net
+  - DOMAIN-SUFFIX,iqiq.io
+  - DOMAIN-SUFFIX,163yun.com
+  - DOMAIN-SUFFIX,alidns.com
+  - DOMAIN-SUFFIX,netease.com
+  - DOMAIN-SUFFIX,passcloud.xyz
+  - DOMAIN-SUFFIX,sharepoint.com
+
+  - PROCESS-NAME,mosdns
+  - PROCESS-NAME,WeChat
+  - PROCESS-NAME,Tabby Helper
+  - PROCESS-NAME,NeteaseMusic
+  - PROCESS-NAME,BaiduNetdisk_mac
+  - PROCESS-NAME,Tabby Helper (Renderer)
