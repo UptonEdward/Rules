@@ -1,4 +1,5 @@
 payload:
+  - GEOSITE,cn
   - GEOSITE,bilibili
 
   - DOMAIN,doh.pub
