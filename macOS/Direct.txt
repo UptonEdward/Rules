@@ -1,6 +1,6 @@
 payload:
-  - GEOSITE,google-cn
   - GEOSITE,bilibili
+  - GEOSITE,google-cn
 
   - DOMAIN,doh.pub
   - DOMAIN,lhmc.club
