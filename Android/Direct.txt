@@ -1,9 +1,11 @@
 payload:
+  - GEOSITE,sina
   - GEOSITE,aliyun
   - GEOSITE,alibaba
   - GEOSITE,tencent
   - GEOSITE,bilibili
   - GEOSITE,google-cn
+  - GEOSITE.pinduoduo
   - GEOSITE,alibabacloud
   - GEOSITE,geolocation-cn
   - GEOSITE,category-bank-cn
