@@ -3,6 +3,7 @@ payload:
   - GEOSITE,aliyun
   - GEOSITE,alibaba
   - GEOSITE,tencent
+  - GEOSITE,samsung
   - GEOSITE,bilibili
   - GEOSITE,google-cn
   - GEOSITE.pinduoduo
