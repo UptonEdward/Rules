@@ -1,9 +1,18 @@
 payload:
+  - GEOSITE,aliyun
+  - GEOSITE,alibaba
+  - GEOSITE,tencent
   - GEOSITE,bilibili
+  - GEOSITE,google-cn
+  - GEOSITE,alibabacloud
+  - GEOSITE,geolocation-cn
+  - GEOSITE,category-bank-cn
+  - GEOSITE,category-mooc-cn
+  - GEOSITE,category-media-cn
+  - GEOSITE,category-securities-cn
 
   - DOMAIN,doh.pub
   - DOMAIN,lhmc.club
-  - DOMAIN,yacd.haishan.me
   - DOMAIN,a.passcloud.xyz
   
   - DOMAIN-SUFFIX,126.net
@@ -13,3 +22,5 @@ payload:
   - DOMAIN-SUFFIX,netease.com
   - DOMAIN-SUFFIX,passcloud.xyz
   - DOMAIN-SUFFIX,sharepoint.com
+
+  - DST-PORT,22/65534
