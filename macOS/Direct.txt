@@ -27,7 +27,8 @@ payload:
   - PROCESS-NAME,mosdns
   - PROCESS-NAME,WeChat
   - PROCESS-NAME,aDrive
-  - PROCESS-NAME,Termius
   - PROCESS-NAME,NeteaseMusic
   - PROCESS-NAME,aDrive Helper
   - PROCESS-NAME,BaiduNetdisk_mac
+
+  - DST-PORT,22/65534
