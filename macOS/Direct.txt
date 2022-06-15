@@ -25,6 +25,7 @@ payload:
   - DOMAIN-SUFFIX,passcloud.xyz
   - DOMAIN-SUFFIX,sharepoint.com
 
+  - PROCESS-NAME,QQ
   - PROCESS-NAME,mosdns
   - PROCESS-NAME,WeChat
   - PROCESS-NAME,aDrive
