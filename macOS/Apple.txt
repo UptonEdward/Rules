@@ -139,3 +139,5 @@ payload:
   - PROCESS-NAME,translationd
   - PROCESS-NAME,transparencyd
   - PROCESS-NAME,trustd
+  - PROCESS-NAME,timed
+  - PROCESS-NAME,WeatherWidget
