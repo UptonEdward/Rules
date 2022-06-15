@@ -33,3 +33,4 @@ payload:
   - PROCESS-NAME,BaiduNetdisk_mac
 
   - DST-PORT,22/65534
+  - IP-CIDR,43.155.93.22/32
