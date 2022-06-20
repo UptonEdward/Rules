@@ -34,3 +34,4 @@ payload:
   - GEOSITE,cloudflare
   - GEOSITE,category-porn
   - GEOIP,Cloudflare
+  - IP-CIDR,138.2.125.195/32
