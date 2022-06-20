@@ -34,6 +34,7 @@ payload:
   - GEOSITE,gfw
   - GEOSITE,github
   - GEOSITE,google
+  - GEOSITE,pornhub
   - GEOSITE,jsdelivr
   - GEOSITE,linkedin
   - GEOSITE,greatfire
