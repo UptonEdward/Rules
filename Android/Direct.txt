@@ -26,4 +26,4 @@ payload:
   - DOMAIN-SUFFIX,passcloud.xyz
   - DOMAIN-SUFFIX,sharepoint.com
 
-  - DST-PORT,22/65534
+  - IP-CIDR,43.129.180.214/32
