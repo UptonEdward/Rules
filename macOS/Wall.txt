@@ -9,6 +9,7 @@ payload:
   - PROCESS-NAME,Code Helper (Renderer)
   - DOMAIN-SUFFIX,warp.plus
   - DOMAIN-SUFFIX,pages.dev
+  - DOMAIN-SUFFIX,phncdn.com
   - DOMAIN-SUFFIX,workers.dev
   - DOMAIN-SUFFIX,adguard.com
   - DOMAIN-SUFFIX,one.one.one
