@@ -34,4 +34,7 @@ payload:
   - PROCESS-NAME,aDrive Helper
   - PROCESS-NAME,BaiduNetdisk_mac
 
-  - IP-CIDR,43.129.180.214/32
+  - IP-CIDR,43.128.60.153/32
+  - IP-CIDR,45.129.8.54/32
+  - IP-CIDR,45.159.49.215/32
+  - IP-CIDR,154.3.34.247/32
