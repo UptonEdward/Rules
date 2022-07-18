@@ -25,6 +25,7 @@ payload:
   - DOMAIN-SUFFIX,cloudflareresolve.com
   - DOMAIN-SUFFIX,cloudflareinsights.com
   - GEOSITE,gfw
+  - GEOSITE,steam
   - GEOSITE,github
   - GEOSITE,google
   - GEOSITE,pornhub
