@@ -1,4 +1,0 @@
-.jsdelivr.com
-.jsdelivr.net
-.esm.run
-.cdn.jsdelivr.net
