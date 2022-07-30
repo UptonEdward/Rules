@@ -152,6 +152,58 @@
 .koubei.com
 .# npmmirror 中国镜像站
 .npmmirror.com
+.115.com
+.3dmgame.com
+.3type.cn
+.3304399.net
+.4399.com
+.4399api.com
+.4399dmw.com
+.4399er.com
+.4399youpai.com
+.5054399.com
+.img4399.com
+.4paradigm.com
+.51job.com
+.51jobcdn.com
+.yingjiesheng.com
+.yingjiesheng.net
+.zhiding.com.cn
+.58.com
+.58.com.cn
+.5858.com
+.58che.com
+.58xueche.com
+.anjuke.com
+.anjukestatic.com
+.chinahr.com
+.daojia.com
+.diandao.org
+.fang.com
+.sofun.com
+.soufunimg.com
+.jxedt.com
+.zhuancorp.com
+.zhuanspirit.com
+.zhuanzhuan.com
+.8btc.com
+.bystack.com
+.chainnode.com
+.matpool.com
+.matpool.net
+.# Beijing Danmu Network Technology Co., Ltd.
+.acfun.cn
+.aixifan.com
+.acplay.net
+.dandanplay.com
+.afdian.net
+.afdiancdn.com
+.agora.io
+.agoraio.cn
+.agoralab.co
+.airchina.com.cn # 中国国际航空
+.airchinacargo.com # 中国国际货运航空
+.ali213.net
 .a.alimama.cn @ads
 .acjs.aliyun.com @ads
 .adash.m.taobao.com @ads
@@ -239,6 +291,160 @@
 .userimg.qunar.com @ads
 .w.m.taobao.com @ads
 .yiliao.hupan.com @ads
+.# All .alibaba domains
+.alibaba
+.# All .alipay domains
+.alipay
+.# All .taobao domains
+.taobao
+.# All .tmall domains
+.tmall
+.25pp.com
+.56che.com
+.95095.com
+.9game.cn
+.aliapp.org
+.alibaba-inc.com
+.alibaba.com
+.alibabacapital.com
+.alibabacorp.com
+.alibabadoctor.com
+.alibabafuturehotel.com
+.alibabagroup.com
+.alibabaplanet.com
+.alibabaued.com
+.alibabausercontent.com
+.alifanyi.com
+.alihealth.com.cn
+.alihealth.hk
+.aliimg.com
+.alikmd.com
+.alimama.com
+.alimebot.com
+.alimei.com
+.alios.cn
+.alipay.com
+.alipaydns.com
+.alipayobjects.com
+.aliplus.com
+.aliresearch.com
+.alisoft.com
+.alisports.com
+.alitianji.com
+.aliunicorn.com
+.aliway.com
+.aliwork.com
+.alixiaomi.com
+.alizhaopin.com
+.alyms.cn
+.asczwa.com
+.asczxcefsv.com
+.asmlink.cn
+.atatech.org
+.b2byao.com
+.bazai.com
+.bcvbw.com
+.cheng.xin
+.cloudeagle.cn
+.damai.cn
+.dayu.com
+.dfkhgj.com
+.doctoryou.ai
+.doctoryou.cn
+.dongting.com
+.dratio.com
+.emas-poc.com
+.gongyi.xin
+.ialicdn.com
+.iconfont.cn
+.ics.design
+.jhgtgb.com
+.kanbox.com
+.lazada.com
+.liangxinyao.com
+.m-now.cn
+.maitix.com
+.mdeer.com
+.mei.com
+.miaostreet.com
+.mshare.cc
+.nic.xin
+.philanthropy.xin
+.phpwind.com
+.phpwind.net
+.qingtingtrip.com
+.rexpos.cn
+.saee.org.cn
+.shenjing.com
+.shuqi.com
+.shuqireader.com
+.sparenode.com
+.supet.com
+.ttpod.com
+.wandoujia.com
+.xinlingshou.cn
+.yowhale.com
+.yunos-inc.com
+.yunos.com
+.yushanfang.com
+.zuodao.com
+.# AliExpress
+.aliexpress.com
+.aliexpress.ru
+.# 阿里云盘
+.alicloudccp.com
+.aliyundrive.com
+.# 神马搜索
+.sm.cn
+.# 菜鸟
+.cainiao.com
+.cainiao.com.cn
+.cainiao-inc.com
+.# 盒马
+.freshhema.com
+.hemamax.com
+.hemaos.com
+.hemashare.cn
+.shyhhema.com
+.# 淘宝
+.1688.com
+.etao.com
+.juhuasuan.com
+.lingshoujia.com
+.mashort.cn
+.pailitao.com
+.taobao.com
+.taobao.org
+.taobaocdn.com
+.taobizhong.com
+.taopiaopiao.com
+.tb.cn
+.tbcache.com
+.tburl.in
+.tmall.com
+.tmall.ru
+.tmalltv.com
+.tmjl.ai
+.# 飞猪
+.alitrip.com
+.feizhu.cn
+.feizhu.com
+.fliggy.com
+.fliggy.hk
+.iuynfg.com
+.# 高德地图
+.amap.com
+.amapauto.com
+.autonavi.com
+.gaode.com
+.# 虾米音乐
+.xiami.com
+.xiami.fm
+.xiami.net
+.# 口碑
+.koubei.com
+.# npmmirror 中国镜像站
+.npmmirror.com
 .alibabacloud.co.in
 .alibabacloud.com
 .alibabacloud.com.au
@@ -308,6 +514,589 @@
 .oss-me-east-1.aliyuncs.com @!cn
 .oss-us-east-1.aliyuncs.com @!cn
 .oss-us-west-1.aliyuncs.com @!cn
+.antutu.com
+.b3log.org
+.# All .baidu domains
+.baidu
+.91.com
+.aipage.com
+.apollo.auto
+.baidu.cn
+.baidu.com
+.baidu.com.cn
+.baidubce.com
+.baiducontent.com
+.baidupcs.com
+.baidustatic.com
+.baifae.com
+.baifubao.com
+.bcebos.com
+.bdcloudapi.com
+.bdimg.com
+.bdstatic.com
+.bdtjrcv.com
+.bdydns.cn
+.bdydns.com
+.bdydns.net
+.chuanke.com
+.dlnel.com
+.dlnel.org
+.duapps.com
+.dwz.cn
+.hao123.com
+.hao123img.com
+.hao222.com
+.haokan.com
+.jomocdn.net
+.jomodns.com
+.mipcdn.com
+.nuomi.com
+.quyaoya.com
+.shifen.com
+.smartapps.cn
+.tieba.com
+.tiebaimg.com
+.xianfae.com
+.xiaodutv.com
+.baijiayun.com
+.acg.tv
+.acgvideo.com
+.b23.tv
+.biliapi.com
+.biliapi.net
+.bilibili.com
+.bilibiligame.net
+.bilicdn1.com
+.bilicdn2.com
+.bilicdn3.com
+.bilicdn4.com
+.bilicdn5.com
+.biligame.com
+.biligame.net
+.bilivideo.com
+.bilivideo.cn
+.hdslb.com
+.im9.com
+.mincdn.com
+.biligo.com
+.upos-hz-mirrorakam.akamaized.net
+.bitauto.com
+.bitautoimg.com
+.cheyisou.com
+.yiche.com
+.yccdn.com
+.bootcss.com
+.# BootCDN
+.bootcdn.cn
+.# Packagist / Composer
+.phpcomposer.com
+.amemv.com
+.bytecdn.cn
+.bytetcc.com
+.bytetos.com
+.byted-static.com
+.bytedance.com
+.bytedance.net
+.bytedanceapi.com
+.bytedns.net
+.bytednsdoc.com
+.bytegoofy.com
+.byteimg.com
+.byteoversea.com @!cn
+.bytescm.com
+.bytexservice.com
+.feelgood.cn
+.huaxiong.com
+.ibytedapm.com
+.ibytedtos.com @!cn
+.ibyteimg.com @!cn
+.pstatp.com
+.snssdk.com
+.zijiecdn.com
+.zijiecdn.net
+.zijieapi.com
+.zjbyte.cn
+.zjcdn.com
+.# 今日头条
+.toutiao.com
+.toutiaocdn.com
+.toutiaocloud.com
+.toutiaocloud.net
+.toutiaohao.com
+.toutiaohao.net
+.toutiaoimg.cn
+.toutiaoimg.com
+.toutiaoimg.net
+.toutiaopage.com
+.toutiaostatic.com
+.# 抖音
+.douyin.com
+.douyinpic.com
+.douyinstatic.com
+.douyinvod.com
+.# 抖音火山版
+.huoshan.com
+.huoshanstatic.com
+.huoshanzhibo.com
+.# 西瓜视频
+.ixigua.com
+.ixiguavideo.com
+.ixgvideo.com
+.bdxiguaimg.com
+.bdxiguastatic.com
+.# 快懂百科
+.baike.com
+.# 飞书
+.feishu.cn
+.feishucdn.com
+.# 悟空问答
+.wukong.com
+.wukongwenda.cn
+.wukongwenda.com
+.# 懂车帝
+.dcarapi.com
+.dcarimg.com
+.dcarlive.com
+.dcarstatic.com
+.dcarvod.com
+.dcdapp.com
+.dongchedi.com
+.dongchediapp.com
+.# 阳关宽频网
+.365yg.com
+.# GoGoKid
+.gogokid.com.cn
+.gogokid.com
+.# 皮皮虾
+.pipix.com
+.# 番茄小说
+.muyewx.com
+.changdunovel.com
+.# faceu
+.faceu.com
+.# 轻颜相机
+.ulikecam.com
+.capitalonline.net
+.mirrors.yun-idc.com
+.abchina.com
+.bankcomm.com
+.bankofbeijing.com.cn
+.bosc.cn
+.bsb.com.cn
+.ccb.com
+.cgbchina.com.cn
+.cib.com.cn
+.citibank.com.cn
+.cmbc.com.cn
+.hsbc.com.cn
+.hxb.com.cn
+.njcb.com.cn
+.psbc.com
+.spdb.com.cn
+.whccb.com
+.shimo.im
+.yuque.com
+.fuwai.com
+.pkuh6.cn
+.puh3.net.cn
+.hospital.pku.edu.cn
+.ss.bjmu.edu.cn
+.# 证券时报网
+.stcn.com
+.# 财经网
+.caijing.com.cn
+.# 和讯
+.hexun.com
+.# 中金在线
+.cnfol.com
+.cnfolimg.com
+.# 证券日报
+.zqrb.cn
+.# 每日经济新闻报社
+.nbd.com.cn
+.# 上海证券报
+.cnstock.com
+.# 21世纪经济报
+.21jingji.com
+.# 第一财经
+.yicai.com
+.# 中证网
+.cs.com.cn
+.# 证券之星
+.ssajax.cn
+.ssimg.cn
+.stockstar.com
+.# 金融界
+.jrj.com.cn
+.jrjimg.cn
+.# 财联社
+.cls.cn
+.cailianpress.com
+.# 华尔街见闻
+.wallstreetcn.com
+.jianyuweb.com
+.wallstcn.com
+.# 同花顺
+.10jqka.com.cn
+.thsi.cn
+.ths123.com
+.# 大智慧
+.dzh.com.cn
+.gw.com.cn
+.yundzh.com
+.chinesemooc.org
+.cnmooc.org
+.icourse163.org
+.icourses.cn
+.mooc.cn
+.openlearning.com
+.pmphmooc.com
+.moocs.unipus.cn
+.opencourse.pku.edu.cn
+.study.163.com
+.# This list contains scholarly domains that have access point in China Mainland.
+.51ccd.com # 商务数据库-进出口货物贸易数据分库
+.airitilibrary.cn # 华艺学术文献数据库
+.ancientbooks.cn # 籍合网
+.apabi.com
+.bjinfobank.com # 高校数据财经库
+.blyun.com # 百链
+.ccf.org.cn # CCF 中国计算机学会
+.chinabooktrading.com # 中国历代典籍总目
+.cidp.com.cn # CIDP制造业数字资源平台
+.cnbksy.com # 全国报刊索引
+.# 中科软股教育科技
+.cnsciedu.com
+.ibcet.org # 中科IBCET大学英语四六级网考系统
+.medicexam.net # 中科MedicExam医学三基培训考核数据库
+.umajor.net # 中科UMajor专业课学习系统
+.vipexam.org # 中科VIPExam考试学习系统
+.cnthinkers.com
+.cqvip.com
+.crggcn.com # CRGG国别区域与全球治理数据平台（原列国志数据库）
+.data.pharmacodia.com # 药渡经纬全球药物信息平台系统
+.drcnet.com.cn # 国研网
+.duxiu.com # 读秀搜索
+.# 北京爱如生
+.er07.com
+.ersjk.com # 爱如生典海数字平台
+.sbsjk.com # 爱如生申报数据库
+.# CSMAR经济金融研究数据库
+.gtarsc.com # 国泰安数据库
+.htcases.com # 全球案例发现
+.hwshu.com # 瀚文民国书库
+.hytung.cn # 瀚堂典藏古籍
+.incopat.com # incoPat 专利数据库
+.lawyee.org # 北大法意网 中国法律资料库
+.neohytung.com # 瀚堂近代报刊
+.nmrdata.com # 微谱数据
+.nssd.cn # 国家哲学社会科学学术期刊数据库
+.pishu.com.cn # 皮书数据库（社会科学文献出版社）
+.pkulaw.com # 北大法宝
+.rdfybk.com # 人大复印报刊资料
+.resset.com # 锐思数据库
+.sciencechina.cn # 中国科学文献服务系统
+.sslibrary.com # 超星电子书
+.tokyotrial.cn # 东京审判文献数据库
+.tongxianghuicn.com # 台湾大陆同乡会文献数据库
+.twscholar.com # TWS台湾学术期刊在线数据库
+.unihan.com.cn # 书同文
+.wenxin-ge.com # 文心阁古籍全文数据库
+.wind.com.cn # Wind 资讯金融
+.yiigle.com # 中华医学期刊全文数据库
+.www.libvideo.com # 武汉缘来文化-知识视界
+.# 本项目不对金融机构提供任何保证或担保
+.# The project does not provide any guarantees or warranties to financial institutions.
+.# Stock Exchange 证券交易所
+.sse.com.cn
+.sseinfo.com
+.szse.cn
+.cninfo.com.cn
+.# Securities Company 证券公司
+.ajzq.com
+.avicsec.com
+.ccnew.com
+.cczq.com
+.cczq.net
+.cfsc.com.cn
+.cfzq.com
+.cgws.com
+.chinalions.com
+.chinastock.com.cn
+.cicc.com
+.ciccwm.com
+.cindasc.com
+.cjsc.com
+.cnhbstock.com
+.cnht.com.cn
+.csco.com.cn
+.csfounder.com
+.ctsec.com
+.daton.com.cn
+.dfham.com
+.dfzq.com.cn
+.dgzq.com.cn
+.dtsbc.com.cn
+.dwjq.com.cn
+.dxzq.net
+.easec.com.cn
+.essence.com.cn
+.ewww.com.cn
+.fcsc.cn
+.fzfinancing.com
+.gf.com.cn
+.ghsl.cn
+.ghzq.com.cn
+.gjzq.com.cn
+.gkzq.com.cn
+.glsc.com.cn
+.grzq.com
+.gsgh.cn
+.gszq.com
+.gtja.com
+.gtja.com
+.guodu.com
+.guosen.com.cn
+.gyzq.com.cn
+.hazq.com
+.hczq.com
+.hfzq.com.cn
+.hlzqgs.com
+.hongtastock.com
+.hrsec.com.cn
+.hsbcqh.com.cn
+.htsc.com.cn
+.htsec.com
+.huajingsec.com
+.huajinsc.cn
+.huayingsc.com
+.hx168.com.cn
+.hxzq.cn
+.i618.com.cn
+.iztzq.com
+.jhzq.com.cn
+.jpmorganchina.com
+.jyzq.cn
+.jzsec.com
+.kysec.cn
+.lczq.com
+.lhzq.com
+.longone.com.cn
+.morganstanleyhuaxin.com
+.mszq.com
+.nesc.cn
+.njzq.com.cn
+.nomuraoi-sec.com
+.shgsec.com
+.shhxzq.com
+.shzq.com
+.stocke.com.cn
+.swhysc.com
+.swsc.com.cn
+.tebon.com.cn
+.tfzq.com
+.tpyzq.com
+.vanho.cn
+.west95582.com
+.wkzq.com.cn
+.wlzq.cn
+.wxzq.com
+.xcsc.com
+.xsdzq.cn
+.xyzq.com.cn
+.ydsc.com.cn
+.ykzq.com
+.ytzq.com
+.zdzq.com.cn
+.zszq.com
+.ztfsec.com
+.zts.com.cn
+.# Public Fund Company 公募基金公司
+.99fund.com
+.abc-ca.com
+.avicfund.cn
+.bdfund.cn
+.bobbns.com
+.boscam.com.cn
+.bosera.com
+.ccfund.com.cn
+.cfund108.com
+.changanfunds.com
+.chinanature.com.cn
+.cib-fund.com.cn
+.cryuantafund.com
+.ctfund.com
+.dbfund.com.cn
+.efunds.com.cn
+.fadfunds.com
+.foresightfund.com
+.founderff.com
+.fsfund.com
+.ftfund.com
+.fullgoal.com.cn
+.furamc.com.cn
+.galaxyasset.com
+.gefund.com.cn
+.gffunds.com.cn
+.gfund.com
+.gowinamc.com
+.hffunds.cn
+.hftfund.com
+.hongdefund.com
+.hsfund.com
+.huaan.com.cn
+.igwfmc.com
+.jsfund.cn
+.jtamc.com
+.mfcteda.com
+.msjyfund.com.cn
+.nffund.com
+.ocfund.cn
+.orient-fund.com
+.phfund.com.cn
+.postfund.com.cn
+.py-axa.com
+.swsmu.com
+.taipingfund.com.cn
+.thfund.com.cn
+.tongtaiamc.com
+.ubssdic.com
+.xf-fund.com
+.xqfunds.com
+.ydamc.com
+.yhfund.com.cn
+.zhfund.com
+.zofund.com
+.# Fund Sales 基金销售公司
+.5ifund.com
+.fund123.cn
+.howbuy.com
+.lufunds.com
+.zlfund.cn
+.huijistatic.com
+.huijiwiki.com
+.moegirl.org
+.moegirl.org.cn
+.10086.cn
+.139.com
+.chinamobile.com
+.chinamobileltd.com
+.# Migu
+.migucloud.com
+.migu.cn
+.cmvideo.cn
+.miguvideo.com
+.# 中移互联
+.andfx.cn
+.andfx.net
+.cmicrwx.cn
+.cmpassport.com
+.fetion-portal.com
+.fetionpic.com
+.mmarket.com
+.mmarket6.com
+.chinaso.com
+.pg0.cn
+.189.cn
+.chinatelecom-h.com
+.chinatelecom.com.cn
+.chinatelecomglobal.com
+.chntel.com
+.10010.com
+.10010.com.cn
+.chinaunicom.com
+.chinaunicom.com.cn
+.chinaunicom.com.hk
+.chinaunicomglobal.com
+.mychinaunicom.com
+.wo.com.cn
+.chinaz.com
+.chinaz.net
+.chiphell.com
+.# All .citic domains
+.citic
+.chinaamc.com
+.citic-prudential.com.cn
+.citicbank.com
+.citiccapital.com
+.citiciam.com
+.citicifh.com
+.citicprufunds.com.cn
+.citics.com.hk
+.citicsf.com
+.clsa.com
+.cncbinternational.com
+.csc108.com
+.csci.hk
+.ecitic.com
+.coding.me
+.coding.net
+.caiyunai.com
+.caiyunapp.com
+.coolapk.com
+.coolapkmarket.com
+.coolapkmarket.net
+.# 奶牛快传 备案号：蜀ICP备14008877号
+.c-t.work
+.cowtransfer.com
+.csdn.net
+.csdnimg.cn
+.c-ctrip.com
+.colinker.com
+.ctrip.cn
+.ctrip.co.id
+.ctrip.co.kr
+.ctrip.co.th
+.ctrip.com
+.ctrip.com.hk
+.ctrip.my
+.ctrip.sg
+.ctripbiz.com
+.ctripbuy.hk
+.ctripteam.com
+.doticloud.com
+.easytrip.com
+.hhtravel.com
+.hhtravel.com.tw
+.izuchebao.com
+.lvtds.com
+.shuntu.cn
+.skysea.com
+.suanya.cn
+.suanya.com
+.tieyou.com
+.toptown.cn
+.toursbms.com
+.trip.com
+.tripcdn.com
+.vipdlt.com
+.cugbonline.cn
+.dangdang.com
+.ddimg.cn
+.# 得到
+.biji.com
+.ddmogo.com
+.igetget.cn
+.igetget.com
+.luojilab.com
+.mogoo.com
+.sao.cn
+.saolife.com
+.deepin.cn
+.deepin.com
+.deepin.io
+.deepin.org
+.# 统信
+.chinauos.com
+.uniontech.com
+.dida365.com
+.didi-food.com
+.didiaustralia.blog
+.didichuxing.com
+.didiglobal.com
+.didimobility.co.jp
+.didistatic.com
+.xiaojukeji.com
 .ddurl.to
 .dingding.xin
 .dingtalk.cn
@@ -316,14 +1105,610 @@
 .dingtalkapps.com
 .laiwang.com
 .lwurl.to
+.dmzj.com
+.douban.com
+.douban.fm
+.doubanio.com
+.douyu.com
+.douyu.tv
+.douyucdn.cn
+.douyucdn2.cn
+.douyuscdn.com
+.douyutv.com
+.dtstatic.com
+.duitang.com
+.# 上海帝联网络科技有限公司
+.acadn.cn
+.acadn.com
+.bbbcdns.com
+.dlgslb.cn
+.dlgslb.net
+.dwion.com
+.fastcdn.com
+.fastcdn.com.cn
+.flxdns.cn
+.flxdns.com
+.globalcdn.cn
+.mcadn.cn
+.tlgslb.cn
+.tlgslb.com
+.1234567.com.cn
+.18.cn
+.18.com.cn
+.dfcfw.com
+.eastmoney.com
+.eastmoneyfutures.com
+.emsec.hk
+.guba.com.cn
 .ele.me
 .elemecdn.com
 .eleme.cn
+.erji.net
+.cebbank.com
+.ceblease.com
+.eb-ind.com
+.ebasset.com
+.ebchina.com
+.ebchinaintl.com
+.ebf.com.cn
+.ebfcn.com
+.ebfortune.com
+.ebtrust.com
+.ebscn-am.com
+.ebscn.com
+.everbright.com
+.secec.com
+.sunlife-everbright.com
+.allflow.cn
+.flowus.cn
+.foundertype.com
+.gamersky.com
+.ganji.com
+.ganjistatic1.com
+.gcores.com
+.geetest.com
+.geetest.datasink.sensorsdata.cn
+.gitee.com
+.gitee.io
+.gitv.cn
+.gitv.tv
+.guokr.com
+.hacpai.com
+.ld246.com
+.hainanairlines.com
+.hnacargo.com
+.hnair.com
+.# HNA Telecom
+.10044.cn
+.hanyi.com.cn
+.# Font Star
+.fontstar.com.cn
+.heytea.com
+.dbank.com
+.dbankcdn.com
+.harmonyos.com
+.hicloud.com
+.hihonor.com
+.honor.cn
+.huawei.com
+.huaweicloud.com
+.vmall.com
+.vmallres.com
+.cctalk.com
+.hjapi.com
+.hjfile.cn
+.hujiang.com
+.yeshj.com
+.huya.com
+.msstatic.com
+.# Hongen Education and Technology Co., Ltd.
+.ihuman.com
+.hongen.com
+.ipip.net
+.71.am
+.iqiyi.com
+.iqiyipic.com
+.pps.tv
+.ppsimg.com
+.qiyi.com
+.qiyipic.com
+.qy.net
+.# CDN used by iqiyi
+.71edge.com
+.j-test.com
+.3.cn
+.300hu.com
+.360buy.com
+.360buyimg.com
+.360top.com
+.7fresh.com
+.baitiao.com
+.blackdragon.com
+.caiyu.com
+.chinabank.com.cn
+.dao123.com
+.isvjcloud.com
+.jcloud-cdn.com
+.jcloud-live.com
+.jcloud-oss.com
+.jcloud.com
+.jcloudcache.com
+.jcloudcs.com
+.jclouddn.com
+.jcloudec.com
+.jcloudedge.com
+.jcloudlb.com
+.jcloudlive.com
+.jcloudlv.com
+.jcloudoss.com
+.jcloudss.com
+.jcloudstatic.com
+.jcloudvideo.com
+.jclps.com
+.jd-app.com
+.jd-ex.com
+.jd.cn
+.jd.co.th
+.jd.com
+.jd.hk
+.jd.id
+.jd.ru
+.jdcache.com
+.jdcloud.com
+.jdcloudcs.com
+.jdcloud-api.com
+.jddapeigou.com
+.jddebug.com
+.jddglobal.com
+.jdjinrong.com
+.jdpay.com
+.jdpaydns.com
+.jdx.com
+.jdwl.com
+.jingdongjinrong.com
+.jingxi.com
+.jkcsjd.com
+.joybuy.com
+.joybuy.es
+.linglonglife.com
+.mayshijia.com
+.minitiao.com
+.ocwms.com
+.paidaojia.cn
+.paipai.com
+.prestodb-china.com
+.qianxun.com
+.qingzhouip.com
+.toplife.com
+.vg.com
+.wangyin.com
+.wdfok.com
+.yhd.com
+.yihaodian.com
+.yihaodianimg.com
+.yiyaojd.com
+.yizhitou.com
+.jianshu.com
+.jianshu.io
+.jbcz.tv
+.jibencaozuo.com
+.media.paperclipclub.net
+.#极光推送
+.42r.cn
+.5566ua.com
+.aurorapush.cn
+.e0n.cn
+.japps.cn
+.jchat.io
+.jiguang.cn
+.jmlk.co
+.jpush.cn
+.jpush.io
+.jpushoa.com
+.jsurvey.cn
+.jvoice.cn
+.kc9.cn
+.n0q.cn
+.pushcfg.com
+.s0n.cn
+.jjwxc.net
+.jinrishici.com
+.jinshuju.net
+.jinshujucdn.com
+.juejin.cn
+.juejin.im
+.xitu.io
+.p1-juejin.byteimg.com
+.p2-juejin.byteimg.com
+.p3-juejin.byteimg.com
+.p4-juejin.byteimg.com
+.p5-juejin.byteimg.com
+.p6-juejin.byteimg.com
+.p7-juejin.byteimg.com
+.p8-juejin.byteimg.com
+.p9-juejin.byteimg.com
+.kechuang.org
+.kc.kexinshe.com @cn
+.gotokeep.com
+.keepcdn.com
+.kimg.cn
+.kingsoft.com
+.ksmobile.com
+.# Kingsoft Cloud
+.ks-cdn.com
+.ks-cdn1.com
+.ksyun.com
+.ksyuncdn.com
+.ksyungslb.com
+.koocdn.com
+.koolearn.com
+.koopass.com
+.ku6.com
+.ku6cdn.com
+.ku6img.com
+.kkmh.com
+.kuaikanmanhua.com
+.# Beijing Kuaishou Technology Co., Ltd.
+.gifshow.com
+.ksapisrv.com
+.kuaishou.com
+.yximgs.com
+.kgimg.com
+.kugou.com
+.lagou.com
+.lgstatic.com
+.baidupan.com
+.lanzou.com
+.lanzoug.com
+.lanzoui.com
+.lanzous.com
+.lanzouv.com
+.lanzoux.com
+.woozooo.com
+.ldmnq.com
+.le.com
+.lecloud.com
+.lemall.com
+.letv.com
+.letvcdn.com
+.letvimg.com
+.lianjia.com
+.ljcdn.com
+.liepin.com
+.lietou.com
+.lietou-static.com
+.lizhi.fm
+.lizhifm.com
+.mafengwo.cn
+.mafengwo.com
+.mafengwo.net
+.manmanbuy.com
+.maoyun.com
+.maoyuncloud.cn
+.maoyuncloud.com
+.meitu.com
+.meitudata.com
+.meitustat.com
+.dianping.com
+.maoyan.com
+.meituan.com
+.meituan.net
+.mtyun.com
+.neixin.cn
+.sankuai.com
+.flyme.cn
+.meizu.cn
+.meizu.com
+.mzres.com
+.mfuns.cn
+.miaopai.com
+.# 米哈游
+.mhyurl.cn @cn
+.mihayo.com @cn
+.mihayou.com @cn
+.mihoyo.com @cn
+.mihoyocg.com @cn
+.mihoyogift.com @cn
+.mihoyomall.com @cn
+.miyoushe.com @cn
+.# 崩坏2
+.benghuai.com @cn
+.# 崩坏3
+.bh3.com @cn
+.# 未定事件簿
+.themisweeps.com @cn
+.# 原神
+.yuanshen.com @cn
+.# Akamai
+.regexp:^.+-mihayo\.akamaized\.net$ @cn
+.mogu.com
+.mogucdn.com
+.mogujie.com
+.moji.com
+.mojichina.com
+.muwai.com
+.nattest-china.com
+.126.com
+.126.link
+.126.net
+.127.com
+.127.net
+.163.com
+.163industry.com
+.163mail.com
+.163qiyukf.com
+.163yun.com
+.166.net
+.haowu.link
+.icourse163.org
+.kaola.com
+.lofter.com
+.nease.net
+.netease-inc.com
+.netease.com
+.netease.im
+.qiyukf.com
+.ydstatic.com
+.yeah.net
+.youdao.com
+.nga.cn
+.178.com
+.ngabbs.com
+.ngacn.cc
+.oneplus.com
+.oneplus.cn
+.oneplus.net
+.opstatics.com
+.oneplusbbs.com
+.h2os.com
+.coloros.com
+.finzfin.com
+.heytap.com
+.heytapcs.com
+.heytapdownload.com
+.heytapimage.com
+.heytapmobi.com
+.myoppo.com
+.nearme.com.cn
+.oppo.cn
+.oppo.com
+.oppo.mobi
+.oppodigital.com
+.oppoer.me
+.oppomobile.com
+.oppopay.com
+.opposhop.cn
+.realme.com
+.realmebbs.com
+.realmemobile.com
+.oschina.net
+.pgyer.com
+.tracup.com
+.frontjs.com
+.pddpic.com
+.pinduoduo.com
+.yangkeduo.com
+.pingan.com
+.pingan.com.cn
+.pingan.com.hk
+.yqb.com
+.pkoplink.com
+.polyv.net
+.videocc.net
+.pplive.cn
+.pplive.com
+.pptv.com
+.360.cn
+.360.com
+.360.net
+.360-jr.com
+.360chou.com
+.360daikuan.com
+.360huzhubao.com
+.360jie.com
+.360jinrong.net
+.360kan.com
+.360kuai.com
+.360os.com
+.360panyun.cn
+.360safe.com
+.360shouji.com
+.360taojin.com
+.360totalsecurity.com
+.360tpcdn.com
+.360webcache.com
+.360zqaq.com
+.anquanke.com
+.haoso.com
+.haosou.com
+.haosou.com.cn
+.haosou.net
+.i360mall.com
+.ludashi.com
+.nicaifu.com
+.nzwgs.com
+.qhimg.com
+.qhimgs0.com
+.qhimgs1.com
+.qhimgs2.com
+.qhimgs3.com
+.qhimgs4.com
+.qhimgs5.com
+.qhimgs6.com
+.qhmsg.com
+.qhres.com
+.qhres2.com
+.qhstatic.com
+.qhupdate.com
+.qihuapi.cn
+.qihucdn.com
+.qihoo.com
+.qihoo.net
+.qikucdn.com
+.so.com
+.sou.com
+.urlqh.cn
+.xiaoluyouxuan.com
+.xiaoluzhidian.com
+.xjietiao.com
+.youhua.com
+.yunpan.cn
+.frontwize.com
+.qingcache.com
+.qingcloud.com
+.qingstor.com
+.routewize.com
+.yunify.com
+.qingting.fm
+.qbox.me
+.qiniu.com
+.qiniucdn.com
+.qiniudn.com
+.qiniudns.com
+.qiniup.com
+.qnsdk.com
+.qnssl.com
+.renren.com
+.renren-inc.com
+.ruby-china.org
+.# RubyConf China
+.rubyconfchina.org
+.segmentfault.com
+.sifou.com
+.feng1.com
+.rongechain.com
+.sf-airlines.com
+.sf-cityrush.com
+.sf-express.com
+.sf-financial.com
+.sf-saas.com
+.sf-tech.com.cn
+.sfcar.hk
+.sffix.cn
+.sfgy.org
+.sfacg.com
+.97973.com
+.picself.cn
+.sina.cn
+.sina.com
+.sina.com.cn
+.sina.net
+.sinaapp.com
+.sinaedge.com
+.sinaimg.cn
+.sinaimg.com
+.sinajs.cn
+.sinajs.com
+.t.cn
+.videoself.cn
+.wbimg.com
+.wbimg.cn
+.wcdn.cn
+.weibo.cn
+.weibo.com
+.weibo.com.cn
+.weibocdn.com
+.xhaiwai.com
+.sinopec-usa.com
+.sinopec.com
+.sinopecgroup.com
+.sinopecnews.com.cn
+.sinopecsales.com
+.smzdm.com
+.zdmimg.com
+.szbdyd.com
+.snodehome.com
+.snodehome.cn
+.go2map.com
+.sogo.com
+.sogou.com
+.sogoucdn.com
+.saraba1st.com
+.cnsuning.com
+.suning.com
+.suningcloud.com
+.suningestate.com
+.suningholdings.com
+.mysxl.cn
+.sxl.cn
+.sxlcdn.cn
+.taikang.com
+.taikanglife.com
+.taikangzhijia.com
+.tkhealthcare.com
+.61.com
+.taomee.com
+.tapimg.com
+.taptap.com
 .teambition.com
 .teambition.net
 .teambitionapis.com
+.# qq.中国
+.qq.xn--fiqs8s
+.# 腾讯.中国
+.xn--r70as2s.xn--fiqs8s
+.apcdns.net
+.cdn-go.cn
+.cdntip.com
+.cdntips.com
+.foxmail.com
+.foxmail.com.cn
+.gtimg.cn
+.gtimg.com
+.gtimg.com.cn
+.idqqimg.com
+.imqq.com
+.myapp.com
+.myqcloud.com
+.qcloud.com
+.qcloudimg.com
+.qlogo.cn
+.qpic.cn
+.qq.com
+.qqmail.com
+.qzone.com
+.rtx.com.cn
+.servicewechat.com
+.smtcdns.com
+.smtcdns.net
+.tencent.cn
+.tencent.com
+.tencent.com.cn
+.tencent.com.hk
+.tencent.net.cn
+.tencent-cloud.com
+.tencent-cloud.net
+.tencentcloudapi.com
+.tencentcs.com
+.tencentmusic.com
+.tencentyun.com
+.tenpay.com
+.wechat.com
+.wegame.com
+.wegame.com.cn
+.weiyun.com
+.alloyteam.com
+.imweb.io
+.ivweb.io
+.tgbus.com
+.tiancity.com
+.tiancitycdn.com
+.tipdim.org
+.40017.cn
+.17u.cn
+.17u.net
+.17usoft.com
+.17usoft.net
+.elong.com
+.elongstatic.com
+.ly.com
+.u17.com
+.u17i.com
+.u17t.com
 .uc.cn
 .ucweb.com
+.ucloud.cn
+.ufileos.com
 .mobmore.com
 .umeng.com
 .umengcloud.com
@@ -331,3 +1716,115 @@
 .umtrack.com
 .uyunad.com
 .whalecloud.com
+.aicdn.com
+.upai.com
+.upaiyun.com
+.upcdn.net
+.upyun.com
+.oncdp.com
+.vancl.com
+.vanclimg.com
+.vcimg.com
+.vaptcha.com
+.vaptcha.net
+.vgtime.com
+.wanfangdata.com.cn
+.wf.pub
+.51cdn.com
+.8686c.com
+.cdn30.org
+.chinanetcenter.com
+.lxdns.com
+.lxdns.info
+.lxdns.org
+.ourdvsss.com
+.speedws.info
+.speedws.org
+.wangsu.com
+.wscdns.com
+.wscdns.info
+.wscdns.org
+.wamawama.com
+.wiwide.com
+.sojump.com
+.wjx.cn
+.wjx.com
+.wjx.top
+.wolai.com
+.wol.tv
+.wostatic.cn
+.xhscdn.com
+.xiaohongshu.com
+.mi.com
+.mi-img.com
+.mifile.cn
+.miui.com
+.miwifi.com
+.xiaomi.cn
+.xiaomi.com
+.xiaomi.net
+.# Xiaomi YouPin
+.xiaomiyoupin.com
+.ximalaya.com
+.xmcdn.com
+.speiyou.com
+.xesimg.com
+.xueersi.com
+.xueyuanjun.com
+.sandai.net
+.thunderurl.com
+.xunlei.com
+.# 烽动cdn
+.00cdn.com
+.88cdn.com
+.p2cdn.com
+.thundercdn.com
+.# 星域云
+.xycloud.com
+.xycdn.com
+.yinxiang.com
+.# youku uses some alicdn services, so this must use with domain list "alibaba"
+.kumiao.com
+.youku.com
+.ykimg.com
+.mmstat.com
+.soku.com
+.# youku video cdn
+.cibntv.net
+.youzan.com
+.yzcdn.cn
+.youzanyun.com
+.banmaaike.com
+.xiaoyuankousuan.com
+.ybccode.com
+.yuanfudao.com
+.yuansouti.com
+.yuantiku.com
+.yfcache.com
+.yfcalc.com
+.yfcdn.net
+.yfcloud.com
+.yfdts.net
+.yfp2p.net
+.yfscdn.net
+.yunfancdn.com
+.yy.com
+.yystatic.com
+.zcmbc.com.cn
+.zdns.cn
+.zdns.net.cn
+.zdns.org.cn
+.zdnscloud.biz
+.zdnscloud.cn
+.zdnscloud.com
+.zdnscloud.com.cn
+.zdnscloud.info
+.zdnscloud.net
+.zdnscloud.net.cn
+.zdnscloud.org.cn
+.zhanqi.tv
+.zhihu.com
+.zhimg.com
+.zhihuishu.com
+.ziroom.com
+.ziroomapartment.com

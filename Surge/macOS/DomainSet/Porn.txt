@@ -1,4 +1,3 @@
-.# The top domains of the pornographic website.
 .adult
 .porn
 .02weqj32.com
@@ -2422,7 +2421,6 @@
 .zzcartoon.com
 .zzgays.com
 .zzitube.com
-.# Internationalized Domain Name
 .xn--80aaazx1an0a.lol
 .xn--cck4d8b3009a.com
 .xn--hckl3e1e8a8ajin0czf.net
@@ -2433,7 +2431,6 @@
 .xn--urs05q.jp
 .xn--x-qeu1ji09tzlg.biz
 .xn--x-qeu1ji09tzlg.net
-.# Using regular expression to match some domains.
 .54647.global
 .54647.io
 .54647.online
@@ -2515,7 +2512,6 @@
 .xhamster.com
 .xhamsterlive.com
 .xhcdn.com
-.# xhamsterlive thumbnails
 .widgets.stripst.com
 .xnxx-cdn.com
 .xnxx.com
