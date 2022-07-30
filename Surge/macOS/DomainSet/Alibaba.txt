@@ -137,3 +137,182 @@
 .xiami.net
 .koubei.com
 .npmmirror.com
+.a.alimama.cn @ads
+.acjs.aliyun.com @ads
+.adash.m.taobao.com @ads
+.adashbc.m.taobao.com @ads
+.adashbc.ut.taobao.com @ads
+.adash-c.ut.taobao.com @ads
+.adashx.m.taobao.com @ads
+.adashx4ae.ut.taobao.com @ads
+.adashx4yt.m.taobao.com @ads
+.adashxgc.ut.taobao.com @ads
+.adsh.m.taobao.com @ads
+.afp.adchina.com @ads
+.afp.alicdn.com @ads
+.agoodm.m.taobao.com @ads
+.agoodm.wapa.taobao.com @ads
+.alipaylog.com @ads
+.amdc.alipay.com @ads
+.amdc.m.taobao.com @ads
+.api.wapa.taobao.com @ads
+.api.waptest.taobao.com @ads
+.apoll.m.taobao.com @ads
+.appdownload.alicdn.com @ads
+.atanx.alicdn.com @ads
+.atanx2.alicdn.com @ads
+.cdn0.mobmore.com @ads
+.click.aliyun.com @ads
+.click.mz.simba.taobao.com @ads
+.cm.ipinyou.com @ads
+.cm.mlt01.com @ads
+.dsp.simba.taobao.com @ads
+.err.taobao.com @ads
+.ex.mobmore.com @ads
+.ex.puata.info @ads
+.fav.simba.taobao.com @ads
+.feedback.whalecloud.com @ads
+.ff.win.taobao.com @ads
+.fm.p0y.cn @ads
+.g.click.taobao.com @ads
+.g.tbcdn.cn @ads
+.gma.alicdn.com @ads
+.gtms01.alicdn.com @ads
+.gtms02.alicdn.com @ads
+.gtms03.alicdn.com @ads
+.gtms04.alicdn.com @ads
+.hydra.alibaba.com @ads
+.hz.pre.tbusergw.taobao.net @ads
+.hz.tbusergw.taobao.net @ads
+.i.ipinyou.com @ads
+.init.phpwind.com @ads
+.intl.wapa.taobao.com @ads
+.intl.waptest.taobao.com @ads
+.jxlog.istreamsche.com @ads
+.log.umtrack.com @ads
+.m.intl.taobao.com @ads
+.m.simba.taobao.com @ads
+.match.p4p.1688.com @ads
+.material.istreamsche.com @ads
+.mlt01.com @ads
+.nbsdk-baichuan.alicdn.com @ads
+.nbsdk-baichuan.taobao.com @ads
+.osfota.cdn.aliyun.com @ads
+.osupdate.aliyun.com @ads
+.osupdateservice.yunos.com @ads
+.pindao.huoban.taobao.com @ads
+.push.wandoujia.com @ads
+.re.m.taobao.com @ads
+.re.taobao.com @ads
+.redirect.simba.taobao.com @ads
+.rj.m.taobao.co @ads
+.rj.m.taobao.com @ads
+.sdkinit.taobao.com @ads
+.show.re.taobao.com @ads
+.simaba.taobao.com @ads
+.simba.m.taobao.com @ads
+.srd.simba.taobao.com @ads
+.stats.ipinyou.com @ads
+.strip.taobaocdn.com @ads
+.tanxlog.istreamsche.com @ads
+.tejia.taobao.com @ads
+.temai.taobao.com @ads
+.tns.simba.taobao.com @ads
+.tongji.linezing.com @ads
+.tvupgrade.yunos.com @ads
+.tyh.taobao.com @ads
+.userimg.qunar.com @ads
+.w.m.taobao.com @ads
+.yiliao.hupan.com @ads
+.alibabacloud.co.in
+.alibabacloud.com
+.alibabacloud.com.au
+.alibabacloud.com.hk
+.alibabacloud.com.my
+.alibabacloud.com.sg
+.alibabacloud.com.tw
+.alicloud.com
+.alibabadns.com
+.alicdn.com
+.alidayu.com
+.alidns.com
+.alikunlun.com
+.aliyun-inc.com
+.aliyun-iot-share.com
+.aliyun.com
+.aliyuncdn.com
+.cdngslb.com
+.hichina.com
+.ica-alliance.org
+.kunlunaq.com
+.kunlunar.com
+.kunlunca.com
+.kunluncan.com
+.kunlunea.com
+.kunlungem.com
+.kunlungr.com
+.kunlunhuf.com
+.kunlunle.com
+.kunlunli.com
+.kunlunno.com
+.kunlunpi.com
+.kunlunra.com
+.kunlunsa.com
+.kunlunsc.com
+.kunlunsl.com
+.kunlunso.com
+.kunlunta.com
+.kunlunvi.com
+.kunlunwe.com
+.mxhichina.com
+.myalicdn.com
+.oss-ap-northeast-1.aliyuncs.com @!cn
+.oss-ap-northeast-2.aliyuncs.com @!cn
+.oss-ap-south-1.aliyuncs.com @!cn
+.oss-ap-southeast-1.aliyuncs.com @!cn
+.oss-ap-southeast-2.aliyuncs.com @!cn
+.oss-ap-southeast-3.aliyuncs.com @!cn
+.oss-ap-southeast-5.aliyuncs.com @!cn
+.oss-ap-southeast-6.aliyuncs.com @!cn
+.oss-ap-southeast-7.aliyuncs.com @!cn
+.oss-cn-beijing.aliyuncs.com
+.oss-cn-chengdu.aliyuncs.com
+.oss-cn-guangzhou.aliyuncs.com
+.oss-cn-hangzhou.aliyuncs.com
+.oss-cn-heyuan.aliyuncs.com
+.oss-cn-hongkong.aliyuncs.com @!cn
+.oss-cn-huhehaote.aliyuncs.com
+.oss-cn-nanjing.aliyuncs.com
+.oss-cn-qingdao.aliyuncs.com
+.oss-cn-shanghai.aliyuncs.com
+.oss-cn-shenzhen.aliyuncs.com
+.oss-cn-wulanchabu.aliyuncs.com
+.oss-cn-zhangjiakou.aliyuncs.com
+.oss-eu-central-1.aliyuncs.com @!cn
+.oss-eu-west-1.aliyuncs.com @!cn
+.oss-me-east-1.aliyuncs.com @!cn
+.oss-us-east-1.aliyuncs.com @!cn
+.oss-us-west-1.aliyuncs.com @!cn
+.ddurl.to
+.dingding.xin
+.dingtalk.cn
+.dingtalk.com
+.dingtalk.net
+.dingtalkapps.com
+.laiwang.com
+.lwurl.to
+.ele.me
+.elemecdn.com
+.eleme.cn
+.teambition.com
+.teambition.net
+.teambitionapis.com
+.uc.cn
+.ucweb.com
+.mobmore.com
+.umeng.com
+.umengcloud.com
+.umsns.com
+.umtrack.com
+.uyunad.com
+.whalecloud.com
