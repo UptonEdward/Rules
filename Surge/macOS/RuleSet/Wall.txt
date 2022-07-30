@@ -30,3 +30,5 @@ DOMAIN-SUFFIX,cloudflarestatus.com
 DOMAIN-SUFFIX,cloudflarestream.com
 DOMAIN-SUFFIX,cloudflareresolve.com
 DOMAIN-SUFFIX,cloudflareinsights.com
+IP-CIDR,138.2.125.195/32
+IP-CIDR,129.154.48.128/32
