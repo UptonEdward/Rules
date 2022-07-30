@@ -1,0 +1,14 @@
+PROCESS-NAME,Microsoft Excel
+PROCESS-NAME,Microsoft OneNote
+PROCESS-NAME,Microsoft Outlook
+PROCESS-NAME,Microsoft PowerPoint
+PROCESS-NAME,Microsoft Update Assistant
+PROCESS-NAME,Microsoft Word
+PROCESS-NAME,OneDrive
+PROCESS-NAME,OneDrive File Provider
+PROCESS-NAME,onedrive
+PROCESS-NAME,onedriveupdater
+DOMAIN-KEYWORD,1drv
+DOMAIN-KEYWORD,microsoft
+DOMAIN-KEYWORD,onedrive
+DOMAIN-KEYWORD,skydrive
