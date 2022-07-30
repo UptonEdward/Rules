@@ -1,0 +1,32 @@
+PROCESS-NAME,zoom.us
+PROCESS-NAME,Telegram
+PROCESS-NAME,SwitchHosts
+PROCESS-NAME,Code Helper
+PROCESS-NAME,GitHub Desktop
+PROCESS-NAME,GitHub Desktop Helper
+PROCESS-NAME,Code Helper (Renderer)
+DOMAIN-SUFFIX,warp.plus
+DOMAIN-SUFFIX,pages.dev
+DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,workers.dev
+DOMAIN-SUFFIX,adguard.com
+DOMAIN-SUFFIX,one.one.one
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflare.net
+DOMAIN-SUFFIX,cloudflareok.com
+DOMAIN-SUFFIX,trycloudflare.com
+DOMAIN-SUFFIX,videodelivery.net
+DOMAIN-SUFFIX,cloudflaressl.com
+DOMAIN-SUFFIX,cloudflareapps.com
+DOMAIN-SUFFIX,cloudflarebolt.com
+DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,cloudflaretest.com
+DOMAIN-SUFFIX,cloudflarewarp.com
+DOMAIN-SUFFIX,cloudflare-ipfs.com
+DOMAIN-SUFFIX,cloudflare-quic.com
+DOMAIN-SUFFIX,cloudflareaccess.com
+DOMAIN-SUFFIX,cloudflareclient.com
+DOMAIN-SUFFIX,cloudflarestatus.com
+DOMAIN-SUFFIX,cloudflarestream.com
+DOMAIN-SUFFIX,cloudflareresolve.com
+DOMAIN-SUFFIX,cloudflareinsights.com
