@@ -7,5 +7,5 @@ PROCESS-NAME,GitHub Desktop Helper
 PROCESS-NAME,Code Helper (Renderer)
 DOMAIN-SUFFIX,adguard.com
 DOMAIN-SUFFIX,cloudflareaccess.com
-IP-CIDR,138.2.125.195/32
-IP-CIDR,129.154.48.128/32
+IP-CIDR,138.2.125.195/32,no-resolve
+IP-CIDR,129.154.48.128/32,no-resolve
