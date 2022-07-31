@@ -3079,6 +3079,7 @@
 .ahentai.top
 .a-hentai.tv
 .ah-me.com
+.ahmia.fi
 .ahoeab.org
 .ahorsecock.com
 .ahpan.com
@@ -3142,6 +3143,7 @@
 .akamai.cn
 .akamai.com
 .akamaihd.net
+.akasha.world
 .akiba-online.com
 .akiba-web.com
 .akii.work
@@ -5204,6 +5206,7 @@
 .brovpn.io
 .browse007.com
 .browsec.com
+.browserleaks.com
 .br.st
 .brucewang.net
 .brutaltgp.com
@@ -5900,6 +5903,7 @@ cdn77.scoreuniverse.com
 .cem4.pat.flnet.org
 .cenews.eu
 .cenkei.com
+.censorship.ai
 .centauro.com.br
 .centavoip.com.ar
 .centerforhumanreprod.com
@@ -7595,6 +7599,7 @@ cdn77.scoreuniverse.com
 .data-vocabulary.org
 .datawav.club
 .date2night.xyz
+.dat.foundation
 .datjm7i8cdphw.cloudfront.net
 .daum.net
 .dav4mbastv8a0.cloudfront.net
@@ -7770,6 +7775,7 @@ cdn77.scoreuniverse.com
 .demo2.sgwin123.com
 .demo.ai4t.com
 .democracy.com
+.democracy.earth
 .democracynow.org
 .democraticunderground.com
 .democrats.org
@@ -8615,6 +8621,7 @@ e122475.dscg.akamaiedge.net
 .effecthub.com
 .effers.com
 .effies.com
+.eff.org
 .efhc.mx
 .efish.fa.gov.tw
 .efksoft.com
@@ -8797,6 +8804,7 @@ e122475.dscg.akamaiedge.net
 .epa.gov.tw
 .epaper.heeact.edu.tw
 .epaper.wsj-asia.com
+.epicbrowser.com
 .epic.com.tw
 .epicquail.co.uk
 .epig.idv.tw
@@ -9413,6 +9421,7 @@ e122475.dscg.akamaiedge.net
 .fffff.at
 .ff.im
 .fflick.com
+.ffprofile.com
 .ffr19.5.shop.tm
 .ffvpn.com
 .fg258.com
@@ -9937,6 +9946,7 @@ firebase-settings.crashlytics.com
 .fsrepo.cf
 .fsurf.com
 .ftchinese.com
+.fteproxy.org
 .ftop.ru
 .ftopx.com
 .ftp1.biz
@@ -11208,6 +11218,7 @@ gtm.oasisfeng.com
 .guanliyuan.org
 .guanyincitta.com
 .guardian.co.uk
+.guardianproject.info
 .guardiansofhk.com
 .guardster.com
 .gu-chu-sum.org
@@ -11447,6 +11458,7 @@ gtm.oasisfeng.com
 .havanatimes.org
 .have8.com
 .have8.tv
+.haveibeenpwned.com
 .hawaiianmama.com
 .hawaiipacifichealth.org
 .hayatnuri.app
@@ -13270,6 +13282,7 @@ gtm.oasisfeng.com
 .jintian.net
 .jinx.com
 .jitouch.com
+.jitsi.org
 .jitsuroku.kir.jp
 .jiuping.net
 .jiuse904.com
@@ -16472,6 +16485,7 @@ linkedin.sc.omtrdc.net
 .ntbk.gov.tw
 .ntbna.gov.tw
 .ntbt.gov.tw
+.ntc.party
 .ntdcantonese.com
 .ntd.com
 .ntd.tv
@@ -16811,6 +16825,7 @@ linkedin.sc.omtrdc.net
 .oogami.name
 .oogate.com
 .ooguy.com
+.ooni.org
 .ooo16.net
 .ooo36.net
 .ooo-sex.com
@@ -17864,6 +17879,7 @@ linkedin.sc.omtrdc.net
 .privacybox.de
 .privacyprotector.eu
 .privacysandbox.com
+.privacytools.io
 .privateclassics.com
 .private.com
 .privatedns.org
@@ -18130,6 +18146,7 @@ linkedin.sc.omtrdc.net
 .pwa-as.kmyuntai.cn
 .pw.fiddlefish.net
 .pwned.com
+.pwnedpasswords.com
 .pwnwiki.org
 .pwnz.org
 .pximg.net
@@ -20237,6 +20254,7 @@ settings.crashlytics.com
 .stuffseek.com
 .stuffyoushouldknow.com
 .stumbleupon.com
+.stunnel.org
 .stupidbeauty.com
 .stupidcams.com
 .stupidvideos.com
@@ -20718,6 +20736,7 @@ settings.crashlytics.com
 .telesco.pe
 .teleshow.org
 .teletrade-asia.com
+.telex.cc
 .telkom.co.id
 .tellme.pw
 .tel.meet
@@ -21434,6 +21453,7 @@ settings.crashlytics.com
 .tr.fmylife.com
 .trialofccp.org
 .triballo.net
+.tribler.org
 .tributetoliberty.ca
 .trickip.net
 .trickip.org
@@ -22301,6 +22321,7 @@ settings.crashlytics.com
 .v2.parceljs.org
 .v2raycn.com
 .v2ray.com
+.v2ray.cool
 .v2raytech.com
 .v5.connect-link.com
 .v6551.com
@@ -22790,6 +22811,7 @@ settings.crashlytics.com
 .vuku.ru
 .vultryhw.com
 .vultur.com
+.vuvuzela.io
 .vv2069.pw
 .vv611.net
 .vv711.net
@@ -23230,6 +23252,7 @@ settings.crashlytics.com
 .whodns.xyz
 .whoer.net
 .whogovernstw.org
+.whonix.org
 .wh.opendn.xyz
 .whoreasianporn.com
 .whore.net
