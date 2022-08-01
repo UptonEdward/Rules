@@ -124,6 +124,7 @@ PROCESS-NAME,WeatherWidget
 PROCESS-NAME,amsengagementd
 PROCESS-NAME,com.apple.geod
 PROCESS-NAME,storedownloadd
+PROCESS-NAME,System Services
 PROCESS-NAME,AMPLibraryAgent
 PROCESS-NAME,SpyglassPurchases
 PROCESS-NAME,assistant_service
