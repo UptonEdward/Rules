@@ -298,6 +298,7 @@ img-s-msn-com.akamaized.net
 .microsoftnewskids.org
 .microsoftnews.net
 .microsoftnews.org
+.microsoftonline.cn
 .microsoftonline.com
 .microsoftonline-p.com
 .microsoftonline-p.net
@@ -416,6 +417,7 @@ mwf-service.akamaized.net
 .o365weve-ppe.com
 .oaspapps.com
 .office
+.office365.cn
 .office365.com
 .office365love.com
 .office365tw.com
@@ -426,6 +428,7 @@ officecdn-microsoft-com.akamaized.net
 .office.net
 .officeplus.cn
 .officeppe.net
+.officewebapps.cn
 .omniroot.com
 .onecollector.cloudapp.aria
 .onedrive.co
@@ -445,6 +448,7 @@ officecdn-microsoft-com.akamaized.net
 .orithegame.com
 .osdinfra.net
 .outingsapp.com
+.outlook.cn
 .outlook.com
 .outlookgroups.ms
 .outlookmobile.com

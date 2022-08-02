@@ -768,6 +768,7 @@ beatselectronicsllc.tt.omtrdc.net
 cds.apple.com.akadns.net
 .cds-cdn.v.aaplimg.com
 cds-cdn.v.aaplimg.com
+certs-lb.apple.com.akadns.net
 .cheapbagshoes.com
 .cheapbeats365.com
 .cheapbeats4sale.net
@@ -855,6 +856,7 @@ configuration.apple.com.akadns.net
 courier-push-apple.com.akadns.net
 .cozydrdrebeats.com
 .cqcorea.com
+crl-lb.apple.com.akadns.net
 .cstat.apple.com
 .cuffiesaldi.com
 .cups.org
